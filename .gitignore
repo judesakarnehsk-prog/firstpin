@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# lead lists from scripts/get-leads.js (contain business contact details)
+/scripts/leads-output.csv
